@@ -40,4 +40,9 @@ dependencies {
     testImplementation(libs.junit)
     androidTestImplementation(libs.ext.junit)
     androidTestImplementation(libs.espresso.core)
+
+   // implementation("com.hanks:passcodeview:1.0.6")
+  //  implementation("com.github.hanks-zyh:PasscodeView:1.0.6")
+   // compile("com.hanks:passcodeview:0.1.2")
+ //   implementation("androidx.legacy:legacy-support-v4:1.0.0")
 }
